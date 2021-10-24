@@ -246,3 +246,12 @@ thumb
 sketch
 
 # End of https://www.toptal.com/developers/gitignore/api/react,node,intellij
+
+# Yarn Zero Install
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
